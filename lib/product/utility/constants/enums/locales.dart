@@ -11,4 +11,6 @@ enum Locales {
     Locales.tr.locale,
     Locales.en.locale,
   ];
+
+  static const String _translationPath = 'assets/translations';
 }
