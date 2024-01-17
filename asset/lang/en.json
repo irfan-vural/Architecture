@@ -1,0 +1,30 @@
+{
+    "home":{
+        "title":"Home",
+        "description":"Welcome to the home page"
+    
+    },
+    "about":{
+        "title":"About",
+        "description":"Welcome to the about page"
+    
+    },
+    "contact":{
+        "title":"Contact",
+        "description":"Welcome to the contact page"
+    
+    },
+    "general":{
+        "button":{
+            "save":"Save"
+        },
+        "dialog":{
+            "version":{
+                "title":"Version",
+                "description":"Version information"
+            }
+            }
+        }
+    
+    }
+   

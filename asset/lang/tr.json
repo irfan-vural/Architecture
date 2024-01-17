@@ -1,0 +1,27 @@
+
+{
+    "home": {
+    "title": "Ana Sayfa",
+    "description": "Ana sayfaya hoş geldiniz"
+    },
+
+    "about": {
+        "title": "Hakkında",
+        "description": "Hakkında sayfasına hoş geldiniz"
+    },
+    "contact": {
+        "title": "İletişim",
+        "description": "İletişim sayfasına hoş geldiniz"
+    },
+    "general": {
+        "button": {
+            "save": "Kaydet"
+                },
+        "dialog": {
+            "version": {
+                    "title": "Sürüm",
+                    "description": "Sürüm bilgisi"
+            }
+           }
+       }
+    }
