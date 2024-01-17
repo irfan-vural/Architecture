@@ -26,7 +26,7 @@ class _HomeViewState extends State<HomeView> {
             onPressed: () {
               ProductLocalization.updateLanguage(
                 context: context,
-                value: Locales.tr,
+                value: Locales.en,
               );
             },
             child: const Text(LocaleKeys.general_button_save).tr(),
